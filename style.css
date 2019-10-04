@@ -240,11 +240,11 @@ footer hr {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 40em) {
+/* @media screen and (min-width: 40em) {
   .education {
     width: 70%;
   }
-}
+} */
 
 
 /* Testimonials */
